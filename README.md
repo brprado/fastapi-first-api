@@ -1,11 +1,12 @@
-# fastapi-first-api
-Machine Learning API using Titanic Survivors Dataset from Kaggle (Study purpose)
-
 Deploy do primeiro modelo de Machine Learning (FastAPI)#datascience
 
 Passo a passo de como fazer o deploy de um modelo de machine learning usando FastAPI ⚡️
 
-0. Salve o modelo que você treinou
+
+How to Deploy Machine Learning Model as an API in Python - FastAPI - YouTube
+
+Salve o modelo que você treinou
+
 - Após feita toda etapa de análise, visualização e entendimento dos dados (preferencialmente usando algum framework, como o CRISP-DM), vamos salvar o modelo usando a biblioteca pickle
 
 Vamos para o código! 👨🏻‍💻
